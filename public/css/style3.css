@@ -1,0 +1,36 @@
+body{
+    background-image: url('/images/darkwpp.jpg');
+    background-size: 100%;
+    color: white;
+}
+.fotopilan{
+    width: 30%;
+}
+.kepala{
+    display: flex;
+    gap: 15px;
+    height: 270px;
+    width: auto;
+}
+h3 {
+    width: 75%;
+}
+.nyengir{
+    margin-top: 10px;
+}
+
+.cactusjek {
+    background-image : url('/images/travisnyengir2.jpeg');
+    width: 100%;
+    height: 720px;
+}
+.cactusjek h1{
+    font-size: 110px;
+}
+.cactusjek h3{
+    font-size: 25px;
+    margin-top: -75px;
+}
+span{
+    color: #66C995;
+}

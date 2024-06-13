@@ -1,0 +1,58 @@
+body{
+    background-image: url('/images/sekut22.jpg');
+    background-size: 100%;
+    
+}
+.JOEDOEL{
+    background-color: gray;
+    opacity: 69%;
+    width: 100%;
+    
+}
+.JOEDOEL h1{
+    color: white;
+    font-size: 26px;
+    text-align: center;   
+}
+.early-lv{
+    background-color: gray;
+    opacity: 69%;
+    width: 57%;
+    
+}
+.early-lv h1{
+    color: white;
+}
+.travismuda{
+    width: 200px;
+    display: flex;
+    box-shadow: 0 0 17px 0;
+    
+}
+main{
+    display: flex;
+    gap: 40px;
+}
+.kaili{
+    background-color: gray;
+    opacity: 69%;
+    width: 440px;
+}
+.kaili h1{
+    color: white;
+}
+.kailijenner{
+    width: 500px;
+    box-shadow: 0 0 18px 0;
+}
+footer{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+@media screen and (max-width:768px) {
+    body{
+        background-image: url('/images/poteret.jpg');
+    }
+    
+}
